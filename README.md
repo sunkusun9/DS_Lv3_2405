@@ -81,3 +81,12 @@ OS: Windows 10 (Windows 11도 가능하지만 결과에 차이가 있을 수 있
 ```
     deactivate
 ```
+
+
+# To Answer
+
+cook distance, 
+
+ward distance 의미와 구현
+
+AIC, BIC, Mallow's CP 구현
