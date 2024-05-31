@@ -82,11 +82,14 @@ OS: Windows 10 (Windows 11도 가능하지만 결과에 차이가 있을 수 있
     deactivate
 ```
 
+# Answered
+
+AIC, BIC, cook distance: 2-7 회귀 분석에 포함 했습니다.
+
++ DFFFITs, DFBETAS 구현 포함했습니다.
 
 # To Answer
 
-cook distance, 
-
 ward distance 의미와 구현
 
-AIC, BIC, Mallow's CP 구현
+Mallow's CP 구현
