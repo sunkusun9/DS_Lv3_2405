@@ -88,8 +88,10 @@ AIC, BIC, cook distance: 2-7 회귀 분석에 포함 했습니다.
 
 + DFFFITs, DFBETAS 구현 포함했습니다.
 
+Mallow's CP 구현
+
 # To Answer
 
 ward distance 의미와 구현
 
-Mallow's CP 구현
+
