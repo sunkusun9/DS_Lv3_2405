@@ -84,14 +84,21 @@ OS: Windows 10 (Windows 11도 가능하지만 결과에 차이가 있을 수 있
 
 # Answered
 
+**2-7 회귀분석.ipynb**
+
 AIC, BIC, cook distance: 2-7 회귀 분석에 포함 했습니다.
 
 + DFFFITs, DFBETAS 구현 포함했습니다.
 
 Mallow's CP 구현
 
-# To Answer
+**5-1 군집화.ipynb**
 
-ward distance 의미와 구현
+Ward distance 의미와 구현
 
+**3-1. 머신러닝.ipynb**
+
+FAR과 FRR에 대한 설명 <= 채팅창에 설명 요청이 있었지만 미처 답변을 못드린 게 생각나서 추가합니다.
+
+**추가적으로 상세 설명이나 구현이 필요하시다면 말씀주세요**
 
